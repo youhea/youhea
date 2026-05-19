@@ -3,15 +3,6 @@
 # 👋 你好，我是西元 (Xiyuan)
 
 <p align="center">
-  <a href="https://xiyuan-ai.me" target="_blank">
-    <img src="https://img.shields.io/badge/个人网站-xiyuan--ai.me-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:youhe13@qq.com">
-    <img src="https://img.shields.io/badge/电子邮箱-youhe13@qq.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
   <strong>🎬 AI影像创作者 ｜ 💻 AI独立开发者 ｜ 🔮 影视创新探索者</strong>
 </p>
 
@@ -19,7 +10,7 @@
 
 ## 🚀 关于我 / About Me
 
-你好！我是**西元**。我是一名站在**技术与艺术交汇处**的数字化全栈创作者。在通用人工智能（AGI）浪潮下，我致力于打破传统媒介的壁垒，通过 AI 释放无限的创造力。
+我是一名站在**技术与艺术交汇处**的数字化全栈创作者。在通用人工智能（AGI）浪潮下，我致力于打破传统媒介的壁垒，通过 AI 释放无限的创造力。
 
 <br/>
 
